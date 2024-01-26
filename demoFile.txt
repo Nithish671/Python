@@ -1,0 +1,3 @@
+Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!The line written using f.writeThe line written using f.writeThe line written using f.writeThe line written using f.writeThe line written using f.writeThe line written using f.write
